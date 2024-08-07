@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qasem1007
-- 👀 I’m interested in web development, cybersecurity and application devlopment
+- 👀 I’m interested in web, app, game development, and cybersecurity
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
